@@ -2,7 +2,7 @@
 
 • Sou estudante de Engenharia de Software ; 1 semestre.
 
-• Atualmente participo de um Bootcamp em Desenvolvimento Front End pela CodeBlue, HTML, CSS, JS, BOOSTRAP.
+• Atualmente participo de um Bootcamp em Desenvolvimento Front End pela CodeBlue, HTML - CSS - JS - BOOSTRAP.
 
 • Me identifiquei com o Front End, onde tenho conhecimentos atualmente em HTML e CSS.
 
