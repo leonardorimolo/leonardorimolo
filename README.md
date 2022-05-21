@@ -1,16 +1,16 @@
-### Hi there 👋
+• Olá! Me chamo Leonardo Santolin Rimolo, tenho 18 anos e sou apaixonado por tecnologia.
 
-<!--
-**leonardorimolo/leonardorimolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Sou estudante de Engenharia de Software ; 1 semestre.
 
-Here are some ideas to get you started:
+• Atualmente participo de um Bootcamp em Desenvolvimento Front End pela CodeBlue, HTML, CSS, JS, BOOSTRAP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Me identifiquei com o Front End, onde tenho conhecimentos atualmente em HTML e CSS.
+
+• Tenho muita vontade de aprender, sou resiliente e dedicado em tudo que faço. Possuo ótima comunicação e postura para atender e trabalhar.
+
+
+• Inglês intermediário
+• Espanhol intermediário
+• Italiano básico
+
+
