@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 • Olá! Me chamo Leonardo Santolin Rimolo, tenho 18 anos e sou apaixonado por tecnologia.
 
 • Sou estudante de Engenharia de Software ; 1 semestre.
