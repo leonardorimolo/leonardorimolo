@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+<a href="https://imgur.com/dMeOiQM"><img src="https://i.imgur.com/dMeOiQM.png" title="source: imgur.com" /></a>
 
 • Olá! Me chamo Leonardo Santolin Rimolo, tenho 18 anos e sou apaixonado por tecnologia.
 
