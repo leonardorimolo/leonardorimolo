@@ -4,4 +4,4 @@
 
 :pushpin: Sou estudante de Desenvolvimento Front End.
 
-:pushpin: Sempre estudando HTML - CSS - JS - JQUERY - BOOTSTRAP - GIT - GITHUB - VSCODE.
+:pushpin: Sempre estudando HTML - CSS - BOOTSTRAP - GIT - GITHUB - VSCODE.
