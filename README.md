@@ -1,3 +1,5 @@
 
-:pushpin: Olá! :wave: Me chamo Leonardo Santolin Rimolo, sou Desenvolvedor Mobile Junior.
+:pushpin: Olá! :wave: Me chamo Leonardo Santolin Rimolo, sou Desenvolvedor Flutter e apaixonado por tecnologia.
+
+
 
